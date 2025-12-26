@@ -1,0 +1,40 @@
+ Course Project Guidelines and Rubric
+  
+Group Project and Presentation Instructions 
+This assignment implements data science issues related to Data Manipulation with Pandas, Scikit-Learn preprocessing of data, JSON File Manipulation, Web Scraping and Crawling, Multithreading, and optionally using the Django Framework.  Accordingly, the group is asked to clearly differentiate and understand their project topic's requirements. Please follow the instructions outlined below. 
+Project Submission 
+Submit your project using Moodle and include the GitHub repository link. 
+Full run code and make a presentation (team members) in the lecture. 
+Review the Project Rubric (scoring guide). 
+Each group should propose before Mentioned above. 
+
+Project Evaluation Criteria 
+
+
+
+CATEGORY 	4 – 5 points 	2-3 points 	0-1 points 
+Submission of web-based solutions for real-world data science application 
+  	points 	Exceptional Submission 
+of data science application 	Acceptable Submission of data science application 	Weak Submission of data science application 
+Discuss and defend the developed solution  
+  ____points 	Exceptionally discuss and defend the developed solution 	Acceptably discuss and defend the developed solution 	Weakly discuss and defend the developed solution 
+Use development tools to implement the data science application 
+ 
+  	 points 	Exceptional use of development tools to implement the data science application 	Acceptable use of development tools to implement the data science application 	Weak use of development tools to implement the data science application 
+Use development tools to develop the data science 
+application using Pandas  
+ 
+  	points 	Exceptional use of development tools to develop the data science 
+application using Pandas  
+ 	Acceptable use of development tools to develop the data science application using Pandas  	Weak use of development tools to develop the data science application using Pandas  
+Use development tools to develop the data science application using Multithreading  
+ 
+  	Points 	Exceptional use of development tools to develop the data science application using Multithreading  	Acceptable use of development tools to develop the data science application using Multithreading 	Weak use of development tools to develop the data science application using Multithreading  
+Use development tools to develop the data science application using JSON File Manipulation  
+ 
+  	Points 	Exceptional use of development tools to develop the data science application using JSON 
+File Manipulation  
+ 	Acceptable use of development tools to develop the data science application using JSON 
+File Manipulation  	Weak use of development tools to develop the data science application using JSON 
+File Manipulation  
+
